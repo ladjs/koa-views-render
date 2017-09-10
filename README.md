@@ -21,13 +21,13 @@
 [npm][]:
 
 ```sh
-npm install @ladjs/koa-views-render
+npm install koa-views-render
 ```
 
 [yarn][]:
 
 ```sh
-yarn add @ladjs/koa-views-render
+yarn add koa-views-render
 ```
 
 
