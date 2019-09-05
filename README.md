@@ -48,7 +48,7 @@ app.use(render('home'));
 > With optional `locals` object argument:
 
 ```js
-app.use(render('about', title: 'About Us' });
+app.use(render('about', { title: 'About Us' });
 ```
 
 
