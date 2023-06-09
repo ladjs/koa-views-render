@@ -64,7 +64,7 @@ app.use(render('about', { title: 'About Us' });
 [MIT](LICENSE) © [Nick Baugh](http://niftylettuce.com/)
 
 
-## 
+##
 
 [npm]: https://www.npmjs.com/
 
@@ -74,4 +74,4 @@ app.use(render('about', { title: 'About Us' });
 
 [lad]: https://lad.js.org
 
-[koa-views]: https://github.com/queckezz/koa-views
+[koa-views]: https://github.com/ladjs/koa-views
